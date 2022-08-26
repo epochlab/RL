@@ -4,8 +4,6 @@
 
 ![alt text](https://github.com/epochlab/rl/blob/main/sample.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jNQXAC9IVRw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 #### Reinforcement Learning
 Abstract: *Reinforcement learning is the field of computer science concerned with how agents, through trial and error, learn to operate within an environment in order to maximize a reward signal.*
 
