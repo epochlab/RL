@@ -4,7 +4,7 @@
 
 ![alt text](https://github.com/epochlab/rl/blob/main/sample.png)
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/649624495?h=4d67e33841&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="DoomRL_feedback"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jNQXAC9IVRw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Reinforcement Learning
 Abstract: *Reinforcement learning is the field of computer science concerned with how agents, through trial and error, learn to operate within an environment in order to maximize a reward signal.*
